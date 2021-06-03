@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of divers persons entitled to the benefit of articles, proclamations, and declarations, &amp;c. in Ireland; in relation to a bill for vacating all grants of estates and other interests forfeited in Ireland, since the thirteenth day of February, one thousand six hundred and eighty eight: and for appropriating the same to the use of the publick, now lying before the honourable the House of Commons; humbly offer'd to the consideration of the said House.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18572</idno><idno type="EEBO-CITATION">99885995_189458</idno>
+  <idno type="VID">189458</idno>
+  <idno type="EEBO-PROQUEST">2264215978</idno>
+  
+            <idno type="STC">Wing C904A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[66]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[34]</idno>
+            <idno type="STC">ESTC R225269</idno>
+            <idno type="PROQUEST">ocm99885995</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885995e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189458)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[62]; C16:2[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of divers persons entitled to the benefit of articles, proclamations, and declarations, &amp;c. in Ireland; in relation to a bill for vacating all grants of estates and other interests forfeited in Ireland, since the thirteenth day of February, one thousand six hundred and eighty eight: and for appropriating the same to the use of the publick, now lying before the honourable the House of Commons; humbly offer'd to the consideration of the said House.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:189458:1"/>
+            <head>The <hi>CASE</hi> of divers Persons Entitled to the Benefit of Articles, Proclamations, and Declarations, <hi>&amp;c.</hi> in <hi>Ireland;</hi> in Relation to a Bill for Vacating all Grants of Estates and other Interests Forfeited in <hi>Ireland,</hi> since the <hi>Thirteenth</hi> day of <hi>Fe<g ref="char:EOLhyphen"/>bruary, One Thousand Six Hundred</hi> and <hi>Eighty Eight:</hi> And for appropriating the same to the use of the Publick, now lying before the Honourable the House of Commons; Humbly Offer'd to the Consideration of the said House.</head>
+            <p>THAT in all Bills hitherto prepar'd in this Honorable House, for applying the Forfeited Estates in <hi>Ireland</hi> to the Use of the War, there has been special Provision made to preserve the Articles of <hi>Lymmerick, Gallway,</hi> and all other Articles, and Agreements made upon the surrender to their Maje<g ref="char:EOLhyphen"/>sties of any City, Town, Fort, or Garrison in <hi>Ireland,</hi> and also all the Declarations and Procla<g ref="char:EOLhyphen"/>mations relating to that Kingdom Issued out by His Majesty during the War there in their full force; But by the Preamble and Vesting Words of the said Bill, there is, as humbly conceived, so great a latitude of construction left, that it may become very doubtful, if such as are compriz'd within the said Articles, and are in due form adjudg'd so to be, and have thereupon reversed their Outlawries, and such others as upon other good and equitable Grounds, and Reasons appearing to His Majesty, have also actually reversed their Outlawries, shall be Exempted from the Penalties of said Bill, It is therefore Humbly Submitted to the Consideration of this Honorable House, if it may not be Reasonable to Insert in the said Bill an Excepting Clause, in favor of all such as have reversed their Outlawries.</p>
+            <p>THAT of those Entitled to the Benefit of the said Articles, there are some, who as such, have so lately had their Adjudications, that they have not as yet had time to Reverse their Outlawries. Some likewise who have long since Exhibited their Claims, to the said Articles, and (though no default of theirs) are still Kept in Suspence Without being Heard or Adjudg'd, so that their Attainders continue still unreversed; some who have been duly adjudged in <hi>Ireland,</hi> to be Comprized within Articles, and have thereupon Reversed their Outlawries there, are Outlaw'd in <hi>England</hi> for the same Crime, and have not had time to Reverse the said Outlawries in <hi>England.</hi> Some comprized within Articles, others Entitled to Declarations and Proclamations, who are not as yet attainted, if hereafter attainted on account of the late War in <hi>Ireland,</hi> are by the said Bill Disabled from ever Reversing the same, and all and every of these will as conceived be utterly Foreclosed if not specially provided for in the said Bill.</p>
+            <p>THAT upon passing a late Act of Parliament in <hi>Ireland,</hi> to prevent the Reversing of Outlawries for Treason there, it having been Evidently made out, that of those Outlaw'd there for Treason commited in that Kingdom during the late War, there are some who never were in that Kingdom, some who have not been there at any time during the said War, some who were Infants and utterly incapable of being any way concern'd in the same. There was special Provision made by Name for such of the said Persons, and others, as then made their Appli<g ref="char:EOLhyphen"/>cation, whereby they may at any time after Reverse their said Outlawries, so unduly had against them, notwith<g ref="char:EOLhyphen"/>standing the said Act, but by this Bill all these Persons shall in like manner, become for ever foreclosed and loose the benefit of the Provision made for them in the said Act, if not specially provided for.</p>
+            <p>MANY also in that Kingdom Entitled to their Estates by their Early submission to the Government, pursu<g ref="char:EOLhyphen"/>ant to Declarations, and Proclamations, <hi>&amp;c.</hi> whilst under the Kings Protection, and daily to be seen there, most of them never in Arms, nor any other way concern'd in the late War, but as suffering Spectators, were promis<g ref="char:EOLhyphen"/>cuously Outlaw'd without any regard of Sex, Age, or Condition; many amongst them being Infants, Men Superannuated, and Bedridden, Persons under Bayle upon their Indictments: Some in Custody of the very Sheriffs in the Countryes where they were Proclaim'd, others in the Kings Bench Prison, sundry for being only in Civil Employments, so that though the Laws for Outlawries be the same in <hi>Ireland,</hi> that they are in <hi>England,</hi> the Method used there for attainting, was so far from agreeing with that in <hi>England,</hi> that it was altogether contrary to the <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> course of Justice. By the said Bill all the said Persons are not only for ever foreclosed from bringing <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of their said Attainders in question, to have their Tryals, or be restored to their Properties, but even the small fruits of their Industry acquired since then, are to be forfeited.</p>
+            <p>IT is therefore Humbly Offered to Consideration, that these being the most Innocent, and the most Inoffen<g ref="char:EOLhyphen"/>sive Persons in the said Kingdom, during the said late War, and the Readiest and Earliest in their Obedience, such Provision may be made for them in the said Bill, as to this Honorable House may be thought Reasonable.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:189458:2"/>
+            <p>THE CASE OF Divers Persons Entitled to the Benefit of Articles, Proclama<g ref="char:EOLhyphen"/>tions, and Declarations, <hi>&amp;c.</hi> in <hi>Ireland,</hi> in Relation to a Bill now before the Honoura<g ref="char:EOLhyphen"/>ble the House of Commons, for Vacating Grants of Estates in <hi>Ireland,</hi> &amp;c.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
